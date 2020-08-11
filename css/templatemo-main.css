@@ -194,7 +194,11 @@ https://templatemo.com/tm-512-moonlight
   
   nav .logo {
 	  margin-top: 45px;
-	  padding: 0px 20px;
+	  padding: 1px 1px;
+	  background-color: black;
+	  width: 92%;
+	  margin: 40px 4% 0 4%;
+	  border-radius: 25px;
   }
   
   nav .logo img {
